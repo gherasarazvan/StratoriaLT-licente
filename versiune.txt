@@ -1,11 +1,11 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.4.0
+versiune=1.5.0
 data=20261119
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.4.0.exe
-sha256=b756b9fedb63112f224f4b28acf284fc794501902947c76f46fa425bd5c12282
-marime=1188507
-noutati=Detasare suprafata (DETASARE, scurt DTS): desparti dintr-o parcela o suprafata data (mp sau procent), paralel cu o latura, pe o directie data sau rotind linia in jurul unui punct fix.
-noutati=Impartire in loturi (DETLOTURI, scurt DTL): loturi egale sau cu suprafetele tale, cu linii paralele, pe directie sau in evantai dintr-un punct de pe contur.
-noutati=Loturile apar ca polilinii noi cu nume si suprafata; in linia de comanda vezi coordonatele capetelor liniei de detasare. Buton Detasare in panoul Suprafete.
-noutati=Ribbon: butoanele mari, cu textul dedesubt, revin implicit (cele compacte se aleg din Setari).
-sig=qiHaYH2WJ1mYwrXV4Zf1QQXXeM89DplTs-nRIy8Xdj2W0en8n7NFAx_xm4AI9QRAOouGSJ7DHzjcmR9yJf7taDbFg0TnMTfMZhtpXIKaUCRl27qlLi1rcppX3X1LeEI28AzjdANuZvUib0oU06lfF7s6alBkKTgxgb3lotcXNYmVd7O2LdDJj6g-4uEWVLsbXtiEUBprkiecAtqKfz4oS_NiPCqCmTG9IqFdmmYnst4vdMSN3Cx6E-a6RBZvtB36IUIql_TpqrxnRh9ImiA0WDNtHbHg0WNF4dji4_7khPJ8q4NoisAVuZrmS-q7kKRqGxlxmR32xkCCtMwN1rpL7g
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.5.0.exe
+sha256=d0c466c1263431996f8a9654949cd1cda688d347b01dea84e68c46d39da48b09
+marime=1223648
+noutati=Volume exacte, fara grila: o prisma pe fiecare triunghi, taiata exact la contur si la intersectia suprafetelor (rezultat identic cu calculul pe prisme).
+noutati=Vizualizare 3D a volumelor (buton in Calcul volume): sapatura rosu, umplutura albastru, suprafetele, rotire, zoom si exagerarea cotelor.
+noutati=Model 3D (MODEL3D): triangulatie Delaunay cu constrangeri, doar punctele tale; liniile de rupere si limita devin laturi, fara puncte adaugate.
+noutati=Modelul 3D e acum un singur obiect; comanda intreaba doar punctele (Toate/Selectez), liniile de schimbare a pantei si limita, fara nume.
+sig=Ml9FdfPOMg-ykFUZkz6zJqeLilKPcs74MBDKvgc0lTgHuk8s1N9xZpfEj9em2xFoY5_BqxgxSMttKY_ieDCJum1YblR5fb4ZyQyDUmFD-N1G-5ntHEDALDcIoDIjyIPiU5EAi0xp3oyOZc9Z6sINss9OxqIo_m7jwAhSgpqCRJkkxArsmbTpke82mOcBupymLXSufL0ZIAKXUwtZnZXt39_zxiXUVSp4Z1zAzmojwhTFnwnOKTfEbaWKgoIPkpwvblgsuTAFyYvuCBV8PFI0NO2pSNXFnKKFnvigqoMp09TB_WC4_AukL0nJS-4ii9-o_x3Vx__OnVz95RhyTQbPlg
