@@ -1,11 +1,12 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.5.0
+versiune=1.6.1
 data=20261119
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.5.0.exe
-sha256=d0c466c1263431996f8a9654949cd1cda688d347b01dea84e68c46d39da48b09
-marime=1223648
-noutati=Volume exacte, fara grila: o prisma pe fiecare triunghi, taiata exact la contur si la intersectia suprafetelor (rezultat identic cu calculul pe prisme).
-noutati=Vizualizare 3D a volumelor (buton in Calcul volume): sapatura rosu, umplutura albastru, suprafetele, rotire, zoom si exagerarea cotelor.
-noutati=Model 3D (MODEL3D): triangulatie Delaunay cu constrangeri, doar punctele tale; liniile de rupere si limita devin laturi, fara puncte adaugate.
-noutati=Modelul 3D e acum un singur obiect; comanda intreaba doar punctele (Toate/Selectez), liniile de schimbare a pantei si limita, fara nume.
-sig=Ml9FdfPOMg-ykFUZkz6zJqeLilKPcs74MBDKvgc0lTgHuk8s1N9xZpfEj9em2xFoY5_BqxgxSMttKY_ieDCJum1YblR5fb4ZyQyDUmFD-N1G-5ntHEDALDcIoDIjyIPiU5EAi0xp3oyOZc9Z6sINss9OxqIo_m7jwAhSgpqCRJkkxArsmbTpke82mOcBupymLXSufL0ZIAKXUwtZnZXt39_zxiXUVSp4Z1zAzmojwhTFnwnOKTfEbaWKgoIPkpwvblgsuTAFyYvuCBV8PFI0NO2pSNXFnKKFnvigqoMp09TB_WC4_AukL0nJS-4ii9-o_x3Vx__OnVz95RhyTQbPlg
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.6.1.exe
+sha256=3560a8dace7c011b4919ec98fadd00095717ead154f772596b597c810f4899bc
+marime=1267707
+noutati=Volume exacte, fara grila: o prisma pe fiecare triunghi, taiata exact la contur si la intersectia suprafetelor.
+noutati=Vizualizare 3D a volumelor (buton in Calcul volume): sapatura rosu, umplutura albastru, rotire, zoom, exagerarea cotelor.
+noutati=Model 3D (MODEL3D): Delaunay cu constrangeri, doar punctele tale; liniile de rupere si conturul devin laturi. Un singur obiect, fara intrebarea de nume.
+noutati=MODEL3D intreaba doar: punctele (Enter = toate), liniile de schimbare fortata a pantei, conturul. Reparata eroarea eVertexAfterFace din 1.5.0.
+noutati=Texte de suprafata: SUPRECALC (RSU) recalculeaza, SUPLEGARE (LSU) leaga textul de polilinii, SUPVERIF (VSU) verifica; actualizare automata la editarea poliliniei.
+sig=ifKMSEgzJDVzcsFn_9ySx2LucF96XGPNNIVorzu5wV83p2ofnOG1ncz_D0s8x2Jq95fk5RkuZhzZSebI3tfcH0h_Hw0coZPDKFTbOJA8NbrBX1qd2fmtFs75YC5jHquK4u7SklaEA9IgSWbeu3HVCFStzpDtH9ZglUP-KRUJL5cjt35Wj3BOthHTlhA9MJZiijkAQ3PYh1YdjRXbUuwblyMEYpYnPt6Iqymc_5w85z6wZEVexnIiVKl0l9EkDAa23RgbtHFRa4jp7_PZA0SPBKHrVI07fr4n7uYXK5fx4U69g0hkKINE9kJo9tNu1sGgXaM7R7_o1ESdTFDho93_OA
