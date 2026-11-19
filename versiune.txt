@@ -1,0 +1,9 @@
+STRATORIALT-VERSIUNE-1
+versiune=1.2.0
+data=20261119
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.2.0.exe
+sha256=9fb0a9f334f6eb6f8e7872a72f49dd2e58079a001959547ee0a10db33db8f4cc
+marime=1154538
+noutati=Buton Actualizare (comanda ACTUALIZARE, scurt ACT): versiunile noi se instaleaza direct din AutoCAD, fara reinstalare de mana.
+noutati=La pornire, StratoriaLT cauta singur o data pe zi o versiune noua si te anunta in linia de comanda.
+sig=Tgtmtx7RfZMqcUXyFRvTLSkQeblKOz_r6mAV-TUQAzyN8uXCg6mTwTsZMvG1q-3fipZTPTj36W-c8t947uoz1m6UUpRIf2gCpFTDpx9qcgEVJAYXztaosyVXvVLjyqumt7IsXXWw2RW-bnXlyjpoy3X0WO1fibB6NlLbC6Z6wGS9-0pZA2DTOttZsSpictYFX-F2PM9Km7TuVvRMtmaJwjZLolQuf7Hdw-jnLbGqwfqURKex_xgj8wPMW7rO4ITWcJ_4TrtgJw8xEWYX2Whe7_dwhm1haQH5quffeO7JGS3Wfuw6v_NLz7boutquXyQJvUmyEl0Tr_gcUyGxvbjdog
