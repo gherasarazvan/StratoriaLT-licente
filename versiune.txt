@@ -2,9 +2,9 @@ STRATORIALT-VERSIUNE-1
 versiune=1.4.0
 data=20261119
 url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.4.0.exe
-sha256=875365650b5fe941974a400e015c3b99830d29b46f67e56ff1fc37a45183cad3
-marime=1188572
+sha256=b756b9fedb63112f224f4b28acf284fc794501902947c76f46fa425bd5c12282
+marime=1188507
 noutati=Detasare suprafata (DETASARE, scurt DTS): desparti dintr-o parcela o suprafata data (mp sau procent), paralel cu o latura, pe o directie data sau rotind linia in jurul unui punct fix.
 noutati=Impartire in loturi (DETLOTURI, scurt DTL): loturi egale sau cu suprafetele tale, cu linii paralele, pe directie sau in evantai dintr-un punct de pe contur.
 noutati=Loturile apar ca polilinii noi cu nume si suprafata; in linia de comanda vezi coordonatele capetelor liniei de detasare. Buton Detasare in panoul Suprafete.
-sig=k_8feg7YvjcsByP6os6Wy4Oz4sKlYFjFsmSm08Ipd-0eYo4yObenFZfr2sYwGpaVdEtrb7nsgDjViPX9i4eshtZq5mbwWluZu6oC9e3Rn41g3Wtrpr3OWSv5bZQvFsJ5eyREb08ho69qUhdNVbGdU2GAl-KY51UxMGnEB-PBieLK8sDyiLQLn5UhWUjPNSwPTbRhlvXXrZc_LPEB7JwotyOXA5DPcC5Is8B7lQCtbytQg00Ehsot5WKFp6UbZPAc18MZ_vGbXxNSE-8ePpmiwmMInNh4MUEvG1l_XBLlVM4UqsLCjjNby468AzcA6GHzoPUUA0OwjoIvjnJ-gDXf7w
+sig=EWapT04PX8ONaMG0trf6bhaOEJP0sjZu0vEld-Ln0JVcVvuVdSOX6Wb4xrLdoauy0KX0gMxUTbW68IwLBS5daIw9fq6BU7VQiOSmVDs8WTsoD5fFnD-WS_7e8wraZyxu3PAE_6M6EpSMnEY_iY6X-PwGqAlYzMRBzA-P5OBmmMQ9wMehY79mbGRsjFXX7K-s5RD2VUcADwg82RRHuJOPLdxIal2kGRB8NmeCRCGAkDy6MhVk8Xa4nxSE5yRpWAC7Uz90NKDRLzVG3cuYzmjVjT4a-NECeqnVFoK5JO3FKVlQHSUm9IaunkPyko6Yfqg5G0fMb3Hx1_gh3JnNdN0fYQ
