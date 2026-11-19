@@ -1,12 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.3.0
+versiune=1.4.0
 data=20261119
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.3.0.exe
-sha256=472116d6d18a35ef52f6849c736cf47ce4f22c53174fed4e4a7b528e4ab4edb0
-marime=1156585
-noutati=Puncte: numarul si codul stau putin mai sus de raft, cota putin mai jos, ca sa nu se mai atinga. RFP le reface si pe cele vechi.
-noutati=Cand schimbi scara proiectului si in desen sunt deja puncte sau caroiaj, esti intrebat daca le actualizezi la noua scara.
-noutati=Puncte 3D: punctul, textele si linia lui stau la cota punctului; numarul, cota si codul se vad in Properties.
-noutati=Curata desenul (PUR) are buton separat in panoul Utile.
-noutati=Ribbon compact: iconite mici si texte pe doua randuri (in Setari > Proiect poti reveni la butoane mari).
-sig=jOdpnu4Nt1sGEW3Jdv4ipH-qK29kQs5erIcgRrNikYqfVBJtHLsM6IEzVs5LTHITjIUvPGx8sd7X9f74BDkikMBJfyS_ZU4UL1rvKERBzv9nqJXWlG3aY_tQtEe6zE1jpCzTw8kuO5H7EIuTrdrMg5jp-NlK4zS2el1lHRm7MmXfeXYfRP5CllH3y8DvWMSrsgtNjLh1WWZohde-9t7aU8PgAwGONwbtJ1ZNLx0ir8v4acgLQO4NCoPHfgaN0wNMh7S3EPGB8pOaLZ7HhZRp07pBQMN01kutsqBuMj05l9mWZ1qePzPI0Zmin6X-rOEJEVrQBKkBCFJBHhwYXUwoYg
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.4.0.exe
+sha256=875365650b5fe941974a400e015c3b99830d29b46f67e56ff1fc37a45183cad3
+marime=1188572
+noutati=Detasare suprafata (DETASARE, scurt DTS): desparti dintr-o parcela o suprafata data (mp sau procent), paralel cu o latura, pe o directie data sau rotind linia in jurul unui punct fix.
+noutati=Impartire in loturi (DETLOTURI, scurt DTL): loturi egale sau cu suprafetele tale, cu linii paralele, pe directie sau in evantai dintr-un punct de pe contur.
+noutati=Loturile apar ca polilinii noi cu nume si suprafata; in linia de comanda vezi coordonatele capetelor liniei de detasare. Buton Detasare in panoul Suprafete.
+sig=k_8feg7YvjcsByP6os6Wy4Oz4sKlYFjFsmSm08Ipd-0eYo4yObenFZfr2sYwGpaVdEtrb7nsgDjViPX9i4eshtZq5mbwWluZu6oC9e3Rn41g3Wtrpr3OWSv5bZQvFsJ5eyREb08ho69qUhdNVbGdU2GAl-KY51UxMGnEB-PBieLK8sDyiLQLn5UhWUjPNSwPTbRhlvXXrZc_LPEB7JwotyOXA5DPcC5Is8B7lQCtbytQg00Ehsot5WKFp6UbZPAc18MZ_vGbXxNSE-8ePpmiwmMInNh4MUEvG1l_XBLlVM4UqsLCjjNby468AzcA6GHzoPUUA0OwjoIvjnJ-gDXf7w
