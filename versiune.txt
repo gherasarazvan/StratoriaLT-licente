@@ -7,4 +7,5 @@ marime=1188507
 noutati=Detasare suprafata (DETASARE, scurt DTS): desparti dintr-o parcela o suprafata data (mp sau procent), paralel cu o latura, pe o directie data sau rotind linia in jurul unui punct fix.
 noutati=Impartire in loturi (DETLOTURI, scurt DTL): loturi egale sau cu suprafetele tale, cu linii paralele, pe directie sau in evantai dintr-un punct de pe contur.
 noutati=Loturile apar ca polilinii noi cu nume si suprafata; in linia de comanda vezi coordonatele capetelor liniei de detasare. Buton Detasare in panoul Suprafete.
-sig=EWapT04PX8ONaMG0trf6bhaOEJP0sjZu0vEld-Ln0JVcVvuVdSOX6Wb4xrLdoauy0KX0gMxUTbW68IwLBS5daIw9fq6BU7VQiOSmVDs8WTsoD5fFnD-WS_7e8wraZyxu3PAE_6M6EpSMnEY_iY6X-PwGqAlYzMRBzA-P5OBmmMQ9wMehY79mbGRsjFXX7K-s5RD2VUcADwg82RRHuJOPLdxIal2kGRB8NmeCRCGAkDy6MhVk8Xa4nxSE5yRpWAC7Uz90NKDRLzVG3cuYzmjVjT4a-NECeqnVFoK5JO3FKVlQHSUm9IaunkPyko6Yfqg5G0fMb3Hx1_gh3JnNdN0fYQ
+noutati=Ribbon: butoanele mari, cu textul dedesubt, revin implicit (cele compacte se aleg din Setari).
+sig=qiHaYH2WJ1mYwrXV4Zf1QQXXeM89DplTs-nRIy8Xdj2W0en8n7NFAx_xm4AI9QRAOouGSJ7DHzjcmR9yJf7taDbFg0TnMTfMZhtpXIKaUCRl27qlLi1rcppX3X1LeEI28AzjdANuZvUib0oU06lfF7s6alBkKTgxgb3lotcXNYmVd7O2LdDJj6g-4uEWVLsbXtiEUBprkiecAtqKfz4oS_NiPCqCmTG9IqFdmmYnst4vdMSN3Cx6E-a6RBZvtB36IUIql_TpqrxnRh9ImiA0WDNtHbHg0WNF4dji4_7khPJ8q4NoisAVuZrmS-q7kKRqGxlxmR32xkCCtMwN1rpL7g
