@@ -1,12 +1,11 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.6.1
+versiune=1.7.1
 data=20261119
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.6.1.exe
-sha256=3560a8dace7c011b4919ec98fadd00095717ead154f772596b597c810f4899bc
-marime=1267707
-noutati=Volume exacte, fara grila: o prisma pe fiecare triunghi, taiata exact la contur si la intersectia suprafetelor.
-noutati=Vizualizare 3D a volumelor (buton in Calcul volume): sapatura rosu, umplutura albastru, rotire, zoom, exagerarea cotelor.
-noutati=Model 3D (MODEL3D): Delaunay cu constrangeri, doar punctele tale; liniile de rupere si conturul devin laturi. Un singur obiect, fara intrebarea de nume.
-noutati=MODEL3D intreaba doar: punctele (Enter = toate), liniile de schimbare fortata a pantei, conturul. Reparata eroarea eVertexAfterFace din 1.5.0.
-noutati=Texte de suprafata: SUPRECALC (RSU) recalculeaza, SUPLEGARE (LSU) leaga textul de polilinii, SUPVERIF (VSU) verifica; actualizare automata la editarea poliliniei.
-sig=ifKMSEgzJDVzcsFn_9ySx2LucF96XGPNNIVorzu5wV83p2ofnOG1ncz_D0s8x2Jq95fk5RkuZhzZSebI3tfcH0h_Hw0coZPDKFTbOJA8NbrBX1qd2fmtFs75YC5jHquK4u7SklaEA9IgSWbeu3HVCFStzpDtH9ZglUP-KRUJL5cjt35Wj3BOthHTlhA9MJZiijkAQ3PYh1YdjRXbUuwblyMEYpYnPt6Iqymc_5w85z6wZEVexnIiVKl0l9EkDAa23RgbtHFRa4jp7_PZA0SPBKHrVI07fr4n7uYXK5fx4U69g0hkKINE9kJo9tNu1sGgXaM7R7_o1ESdTFDho93_OA
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.7.1.exe
+sha256=6474e7fd74d0040d6d821b63ba697bef5e3531437baaa6be48131bf0dcfe5a56
+marime=1270840
+noutati=VOLUM direct din linia de comanda: suprafata de JOS si de SUS (click pe modelul 3D sau Cota), apoi conturul (Enter = fara).
+noutati=Fereastra Calcul volume cu vederea 3D a prismelor ((+) rosu, (-) albastru), rotire, zoom, exagerarea cotelor si raportul de volume.
+noutati=OK insereaza tabelul cu volumele in desen (si harta (+)/(-) daca o bifezi).
+noutati=Contine si tabelul de inventar refacut din 1.7.0.
+sig=oxZmUfbERv8AkgOYPsn-OEmBExcAmeroUooK7yLkmx7c0yAO45zJTNnYTnc2ThbINvxQ1Pkk6aHITpY_utpL0EY3IDkxXURXukxrQrNlViT39JK0NoJtjba3fQNO2KHIOo8WMJuzK9vj3qIzWrcsBZ42qFhK5h71RBNjEROjdc1giq9_QihDqpfPDGpduSAC76yJiKOL3aTV_srX-6SyqTihXgo4MsL8Zj0JdsWrwYJwWx9S73owKNE-NwQnN9KKRcVE-UitXwdjuExzfinzDBu1J0ejrW3oPFFh8bm2oCUpheORDW9bxCFsGQx2jfTX4XgKiachHswD6yurmVlKwg
