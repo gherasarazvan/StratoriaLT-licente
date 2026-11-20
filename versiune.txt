@@ -1,10 +1,11 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.15.0
+versiune=1.17.0
 data=20261120
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.15.0.exe
-sha256=0df954bf07eac6bf390901e0aa130a3a1d6ef1195e629ff2233ec5cf921682ae
-marime=1583891
-noutati=SELPARCELE (SPX): pui numerele cadastrale intr-un Excel (.xlsx, .xls, .csv sau din clipboard) si comanda selecteaza parcelele (polilinia inchisa + textul) gata de mutat sau copiat; raport cu ce lipseste.
-noutati=Merge si fara Excel instalat; 400000 gaseste si "CF 400000", dar nu 4000001 sau 400000-C1.
-noutati=Blocul punctului la raportare: stiluri proprii, simboluri din folderul tau de DWG-uri sau pe cod din tabelul de coduri (din 1.14.0).
-sig=pyp3ImwkVsJlsQNm7mp04bTQPR8f6GKE921apaeoM38Bs1zTUQnCXMMPCtnWDAZkUeZ4JZq-HZ3gy3vxwSOP6F1mG0el-EgA4LIQmbFpwt8rtflNLQpj_j4h5KnKTSUbAep2oIonOtC_Y_L5gjzINOIxsUyT1LcX4Fad6t6bJco_-XuAKE17QA8mGxHZm346vrri4Wyl0yPtZwOYhrFePlKHs1Jq-p2GyZrpae7mEx92QUTwXe7NufCM0KVwq6LWAKg1_ZNxFFGm8TYplpYbqHAz1jHv2NpAKfYPyNa8OKG7gKTOVIPm4RVMFHJwSt-C5bOgQhUvdXcdcQgiiLWwaA
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.17.0.exe
+sha256=3474b4bff8d7cfe6ad041211a0c5fc234a1cab5e0b9d7bafa416541ee71c42ea
+marime=1593974
+noutati=Licente noi: de la aceasta versiune cheile sunt semnate cu o cheie noua; cheile vechi nu mai sunt valabile. Cere o cheie noua (codul calculatorului din LICENTA).
+noutati=Proba gratuita de 7 zile la prima instalare, zilele ramase din licenta in fereastra LICENTA si la pornire, avertizare cu 7 zile inainte de expirare.
+noutati=Editarea si interpolarea punctelor intr-un singur meniu.
+noutati=Conducte de apa (TXTAPA): culoare si grosime pe tip, AP rar si lizibil, scara liniei dupa scara planului.
+sig=JnO-IfkB7IBIx57hrviheG78ikGLtPXVLq63Cy5i2uAAYyFa1W8RaDjBp85lRxiXLkUR9E_KGdWVHFQ8fLZvRNzg1F1fX7eTcxTAIYJTt17AqMfC37iKN_IyM2bn3h0dv2Kpd_9nDCT_dRc4N9ir2HGuxRcV_oiRnGTrsFCIO1nMWPBrLNl3GCsi35-9F9tdpTOJd35-AZ3rBtRzbOdSolePCm1n9X9wZgP7ERksa-sCRK8gq32p8Nd3FArqmtzrXPvjNGSpvAawDUHQ6iOiPMB8-rcbsYwUQRdmHWpoC9LU4DnBKDWXQrHu2esPPgZdq2xlKgqwOyZcV4nvBPLBEg

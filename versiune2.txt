@@ -1,0 +1,11 @@
+STRATORIALT-VERSIUNE-1
+versiune=1.17.0
+data=20261120
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.17.0.exe
+sha256=3474b4bff8d7cfe6ad041211a0c5fc234a1cab5e0b9d7bafa416541ee71c42ea
+marime=1593974
+noutati=Licente noi: de la aceasta versiune cheile sunt semnate cu o cheie noua; cheile vechi nu mai sunt valabile. Cere o cheie noua (codul calculatorului din LICENTA).
+noutati=Proba gratuita de 7 zile la prima instalare, zilele ramase din licenta in fereastra LICENTA si la pornire, avertizare cu 7 zile inainte de expirare.
+noutati=Editarea si interpolarea punctelor intr-un singur meniu.
+noutati=Conducte de apa (TXTAPA): culoare si grosime pe tip, AP rar si lizibil, scara liniei dupa scara planului.
+sig=xjolUlTK-ePvxqMbJ6zU27EOQQ5gs5QF73pJj5QBUGoEuEN4YvfepowHqnsMB4m5Xy_p5_67tIxUYHa9Odz7jmcZRh5aoBMJTqw-B8rXrWxMCUGzhOHPNArTKKpBY4gpL57gh6wn-KbYCB2eknNi6OGFVz_sYq_w_lKNH6A-s9lREAPpFqQ-yxXXkd7uIkZpK_DUd0OsC090_R2EfnYgW6PpPvORCogwBiOihkb1l78X_HgmG0jRyjHsZjhwx-J-tmxesJq0YSBt9D0dzIFS6WabpvTlvqlV5QaI8kJucSWhGgUlLFS4pRsVfjxTKXEATOOteCF-ISbdpdgUKgBMbw
