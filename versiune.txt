@@ -1,13 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.13.0
+versiune=1.15.0
 data=20261120
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.13.0.exe
-sha256=94ae6b41b0f7fa3d8e7e129fa90073b91e1a3631f5ced3bdc5baaba94190c52f
-marime=1546503
-noutati=Meniuri mai compacte: toate optiunile pentru puncte intr-un singur buton cu lista; detasare, texte de suprafata, tabel si hasuri intr-un singur buton.
-noutati=Retele de apa: TXTAPA (TAP) pentru PEHD 32-400 si fonta ductila DN400, cu strat, culoare si linie "AP"; textul cu tipul si lungimea se roteste dupa conducta.
-noutati=Textele de lungime de la canalizare si apa merg pe stratul TEXTE LUNGIMI TEVI.
-noutati=TXTARANJ (TAR): desface textele suprapuse, pastreaza orientarea, liniile indicatoare urmeaza textul.
-noutati=Planse in layout; tabel de coduri gol cu tabel prestabilit al tau, import si export.
-noutati=Schimbarea scarii actualizeaza si textele de conducte, de suprafete si simbolurile; schimbarea scarii de adnotare e recunoscuta automat.
-sig=noQAjiCxVFn4SnQomWcL4SlATd2DMjJzvMjBPDuzsFOdiJaqUSyoqDCBeKMLXoELEIVZI4MVCoNNpyAokquiUJueg1dDTgidq3W72UUTyPwEVfyXBLZqKQioqlUNe3q7s_MvT-j6dJpWaiGqeAcHhkPXH2U0oNeDFz5v2PbGCkrxGzDIAcRWfbZuw5yn9ShpRWY6reOmmxot6TDaWO5hrb0mgrc4dscwklPMwdugwVwdWz6pmlrelIFeEd9OspPqE6asdt5Hv-Jzc8YthQcMfjJf_qBWXUFYshBsusgj495EjTzbCoukiE92hGAmSaOABitgB4UHXuin4uoHDrnACQ
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.15.0.exe
+sha256=0df954bf07eac6bf390901e0aa130a3a1d6ef1195e629ff2233ec5cf921682ae
+marime=1583891
+noutati=SELPARCELE (SPX): pui numerele cadastrale intr-un Excel (.xlsx, .xls, .csv sau din clipboard) si comanda selecteaza parcelele (polilinia inchisa + textul) gata de mutat sau copiat; raport cu ce lipseste.
+noutati=Merge si fara Excel instalat; 400000 gaseste si "CF 400000", dar nu 4000001 sau 400000-C1.
+noutati=Blocul punctului la raportare: stiluri proprii, simboluri din folderul tau de DWG-uri sau pe cod din tabelul de coduri (din 1.14.0).
+sig=pyp3ImwkVsJlsQNm7mp04bTQPR8f6GKE921apaeoM38Bs1zTUQnCXMMPCtnWDAZkUeZ4JZq-HZ3gy3vxwSOP6F1mG0el-EgA4LIQmbFpwt8rtflNLQpj_j4h5KnKTSUbAep2oIonOtC_Y_L5gjzINOIxsUyT1LcX4Fad6t6bJco_-XuAKE17QA8mGxHZm346vrri4Wyl0yPtZwOYhrFePlKHs1Jq-p2GyZrpae7mEx92QUTwXe7NufCM0KVwq6LWAKg1_ZNxFFGm8TYplpYbqHAz1jHv2NpAKfYPyNa8OKG7gKTOVIPm4RVMFHJwSt-C5bOgQhUvdXcdcQgiiLWwaA
