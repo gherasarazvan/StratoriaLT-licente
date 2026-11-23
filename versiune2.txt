@@ -1,14 +1,14 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.40.0
+versiune=1.42.0
 data=20261123
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.40.0.exe
-sha256=579e3a946da7941157bd2e0afd50d04397f5b0d1f4f369feade98356f27bb488
-marime=2108736
-noutati=Topologie fara intrebari: dai doar distanta maxima, iar varfurile comune cu parcelele vecine se lipesc si se adauga singure; toleranta 0, fara texte pe desen.
-noutati=Diacriticele (a, s, t, i cu semne) nu mai apar cu ? in legenda, cartus si tabele.
-noutati=Export: X = Est si Y = Nord, mereu.
-noutati=Detasare: optiune de stergere a liniei despartitoare (raman doar noile loturi); detasarea in evantai corectata.
-noutati=Legenda: punct masurat cu simbol, leader si cota, doar linii; simboluri prestabilite pentru camine. Cotare cu stil de cota la alegere. Numerotarea parcelelor incepe de la 1 sau de la numarul scris.
-noutati=Profile: Transversal, Longitudinal si Longitudinal conectat la transversal (SECTPROFIL). Fix TXTAPA, STOP pe AutoCAD 2012 si simbolul de nord in chenar.
-noutati=Meniuri mai simple: scoase statia totala/GNSS, drumuirea, trasarea, compararea, lista PDF, verificarea predarii si grupurile Texte, Polilinii, Straturi, Desen si Desen topografic din Utile.
-sig=mKxZWVcB_2Bgd4b5ezCziaNXAnJZmRdo40xIeJ3RKgiESwXdWtUc-kWiufEm8UoHs6KAUGxAxiOcBYpg59H9W5BJBOAPylohFLQuaPCdcVmUf1QNj-vHaxZJLIY6uJA1LlBEpLz0q750Ti9UnUIBEgAMXYRieKJQE7YKosvi2HA05sTBpVmzkumDRZD-DHXFldlDnW308jh0zH8Sz38HhHHjGbWudr5iT3xIo3dC5Ewhavk4e0kCJ4V36wRDCTEP9sKExID_OvhufiTQXwrAFMduepnLg16qSpK0FQrCgLFz07S2fZW4BJ65ZgBvIqhKbHf0aG7yOTEmWPR9Qe-N2g
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.42.0.exe
+sha256=d3f54a003cad8464e378d485c2a5fe03ef68b8b79f914a45f4587f9dfea7d0f5
+marime=2366244
+noutati=Cadastru: tabelele din PAD (teren si constructii) din desen (TABELPAD), calculul analitic al suprafetei (CALCANALITIC), releveu cu tabelul incaperilor (RELEVEU) si cartus cu titlu la alegere (Releveu, Plan de situatie...).
+noutati=Proces-verbal de vecinatate in Word, cu vecinii gasiti in desen (PVVECINI).
+noutati=Planse multiple: un plan mare impartit in foi numerotate, cu schema foilor (PLANSEMULTE) si toate foile intr-un singur PDF (TIPARIREPDF).
+noutati=Imagini georeferentiate: planuri scanate puse pe coordonate din puncte, inserare cu fisier world, decupare (IMAGINEGEO). Import si export SHP in Stereo 70 (IMPORTSHP, EXPORTSHP).
+noutati=Puncte: puncte noi la capetele liniilor fara punct (PCTCAPETE) si rarirea punctelor dese (PCTRARIRE).
+noutati=Model 3D: decupare, unire, contur, sageti de panta, asezarea poliliniilor pe model si cote pe curbele digitizate (TINDECUPARE, TINUNIRE, TINCONTUR, TINPANTE, DRAPARE, CURBEDIGIT).
+noutati=Texte: text de-a lungul unei curbe (TEXTCURBA) si rotirea textelor alese (TEXTROTIRE). Include si corecturile de topologie din 1.41.0.
+sig=O_pL8m_d1WoB7u3xSFzou33Zrx01AJL_2Mxw-MDYInaQ08L5LhjG9cfzvFBXa9xffIp-s3sCdDG159UBMGIe9yvEzUIK-R_QvNmK_zrPArtfg-cSyN_trWENLjxyH4AVRhCf46LP1Oxd5NtzaBgfLJM_u6r6W5CYbOIy54Y1F1OW8jfNnyTdkcwynMzuREuHd3lvzpm1lmCqQF6Enb0xXZmvx4YKrbkMBBFjJftwd9ubFFQHZLF1zW4bpPWABk0hlvFFXYqw0wsD1Sx5BQU0__ZoR2NccITL8TGR-o-MvPBwNraAaGg5RGIYs1LwPR0G6pxpAgcj190Oq9-K93yr4A
