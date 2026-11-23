@@ -1,9 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.40.0
+versiune=1.41.0
 data=20261123
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.40.0.exe
-sha256=579e3a946da7941157bd2e0afd50d04397f5b0d1f4f369feade98356f27bb488
-marime=2108736
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.41.0.exe
+sha256=a6ae94d10b3295287053ea2339896b910485b35a22d0c0383662efd9d63845fc
+marime=2111449
+noutati=Topologie: intai lipeste varfurile apropiate (si colturile comune decalate), apoi adauga varfurile pe laturile comune; cercuri rosii doar unde a ramas ceva necorectat; varfurile dublate de pe aceeasi polilinie se sterg.
 noutati=Topologie fara intrebari: dai doar distanta maxima, iar varfurile comune cu parcelele vecine se lipesc si se adauga singure; toleranta 0, fara texte pe desen.
 noutati=Diacriticele (a, s, t, i cu semne) nu mai apar cu ? in legenda, cartus si tabele.
 noutati=Export: X = Est si Y = Nord, mereu.
@@ -11,4 +12,4 @@ noutati=Detasare: optiune de stergere a liniei despartitoare (raman doar noile l
 noutati=Legenda: punct masurat cu simbol, leader si cota, doar linii; simboluri prestabilite pentru camine. Cotare cu stil de cota la alegere. Numerotarea parcelelor incepe de la 1 sau de la numarul scris.
 noutati=Profile: Transversal, Longitudinal si Longitudinal conectat la transversal (SECTPROFIL). Fix TXTAPA, STOP pe AutoCAD 2012 si simbolul de nord in chenar.
 noutati=Meniuri mai simple: scoase statia totala/GNSS, drumuirea, trasarea, compararea, lista PDF, verificarea predarii si grupurile Texte, Polilinii, Straturi, Desen si Desen topografic din Utile.
-sig=vRoycQ5cflozujcTfoSuvFWWaTA0iGj6eANgKBYh7L-NrBQQKt2e87louoNS4Evqoz6ZiJyFn93Te8-EeLITIgYH21bmRPYediOtU49V9ZYWXQi1-SyFxbpuEyCpKA41Yy1so3s2t4cDaOVtGb6v8I80Pap2TF7SDYnFZMPUhsxFdcsBRT1EJZBSp1YbB4lyYcnE_64McnEw2vX5tdN-qZ8AAzxVEEAxD4Ay4rzmQ5Kot0Jfej9ma4FTcf-cpIJpm2z62VN9geMIHVa2-UPjpdj7CkIGb6MlHxObkJbJ5jgZn1BTyIWRRC6oAJkmMHFFpJKHFfc1FRvsWDHrBHSSEA
+sig=af99PoC_VnlNKmSS6gLX22XD5JT1A6nuQ5CV4FwKAZkmdA--XhficAbj9DWRTwyDcoeV7rAZBUzLPjeThC-xq3iYuGIYE1SoZTBcLJhL7n6xyIjW_yifZHUD5S9Mtinvz7y3BCRS9ZjH5d_5rOaHYKUiFrdnoDzNwyGEk56tRf4cMoNUt9DFedNJgaOCBUfBqau9HAiFS1RRbg6ilpe_a5zqGh-kigEmPgbhsWpmGQ4lXLKfrieco_EDvYiaHljuk8yvh1j_8Ppf4vj4e3HqvGnybgoU9UzTilmZf5Uof4o0xyDiggzOi23iDVG1eU1prlme64wrF9daYUSfIfbzIA

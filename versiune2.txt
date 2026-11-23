@@ -1,9 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.40.0
+versiune=1.41.0
 data=20261123
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.40.0.exe
-sha256=579e3a946da7941157bd2e0afd50d04397f5b0d1f4f369feade98356f27bb488
-marime=2108736
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.41.0.exe
+sha256=a6ae94d10b3295287053ea2339896b910485b35a22d0c0383662efd9d63845fc
+marime=2111449
+noutati=Topologie: intai lipeste varfurile apropiate (si colturile comune decalate), apoi adauga varfurile pe laturile comune; cercuri rosii doar unde a ramas ceva necorectat; varfurile dublate de pe aceeasi polilinie se sterg.
 noutati=Topologie fara intrebari: dai doar distanta maxima, iar varfurile comune cu parcelele vecine se lipesc si se adauga singure; toleranta 0, fara texte pe desen.
 noutati=Diacriticele (a, s, t, i cu semne) nu mai apar cu ? in legenda, cartus si tabele.
 noutati=Export: X = Est si Y = Nord, mereu.
@@ -11,4 +12,4 @@ noutati=Detasare: optiune de stergere a liniei despartitoare (raman doar noile l
 noutati=Legenda: punct masurat cu simbol, leader si cota, doar linii; simboluri prestabilite pentru camine. Cotare cu stil de cota la alegere. Numerotarea parcelelor incepe de la 1 sau de la numarul scris.
 noutati=Profile: Transversal, Longitudinal si Longitudinal conectat la transversal (SECTPROFIL). Fix TXTAPA, STOP pe AutoCAD 2012 si simbolul de nord in chenar.
 noutati=Meniuri mai simple: scoase statia totala/GNSS, drumuirea, trasarea, compararea, lista PDF, verificarea predarii si grupurile Texte, Polilinii, Straturi, Desen si Desen topografic din Utile.
-sig=mKxZWVcB_2Bgd4b5ezCziaNXAnJZmRdo40xIeJ3RKgiESwXdWtUc-kWiufEm8UoHs6KAUGxAxiOcBYpg59H9W5BJBOAPylohFLQuaPCdcVmUf1QNj-vHaxZJLIY6uJA1LlBEpLz0q750Ti9UnUIBEgAMXYRieKJQE7YKosvi2HA05sTBpVmzkumDRZD-DHXFldlDnW308jh0zH8Sz38HhHHjGbWudr5iT3xIo3dC5Ewhavk4e0kCJ4V36wRDCTEP9sKExID_OvhufiTQXwrAFMduepnLg16qSpK0FQrCgLFz07S2fZW4BJ65ZgBvIqhKbHf0aG7yOTEmWPR9Qe-N2g
+sig=e62WdIVHQ0UijTLTEMDGTFtl7PHs0aSPqN85pt-c8sqKZCC-z8LIc8yCoVMa_n8ZlKhFQbIqbjZYDkbOXBUjxdd_AedtbTLV4G_u8i7ATbkcXZqxIg-OhkXNAMQGv5bYhE5ZL93UFfc4uEVXUPYzxKE40-6IqmGPSmcr2W-SRatCWhiIT3W8n-6XezscMqMh_BP31LNjDsOMFoWDCekEu26_c-Qo1MSfy1XuEbEuY75vtyAJuNqbrP1rItbgVNCfBW5bEJYnTxORWVBE3yne4R5HF7TH5X_ZbAs0fhlMjZ9oAC-yAQ6Pe0iM9aD3xLx4L3nRLBVo3vj-YaAeRjjEjA
