@@ -1,14 +1,14 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.42.0
+versiune=1.43.0
 data=20261123
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.42.0.exe
-sha256=d3f54a003cad8464e378d485c2a5fe03ef68b8b79f914a45f4587f9dfea7d0f5
-marime=2366244
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.43.0.exe
+sha256=0797d5eec2e3a6ae067c5cf5ec7c9da44d423d08f44d8d55986ccf58029e77c3
+marime=2336416
+noutati=Setari: randul Font din pagina Proiect afisat corect, fara "((_>" in linia de comanda dupa OK. Scoase Utile - Texte si GIS si imagini (SHP, imagini georeferentiate).
+noutati=Topologie: intai lipeste varfurile apropiate, apoi adauga varfurile pe laturile comune; cercuri doar unde a ramas ceva necorectat; varfurile dublate se sterg.
 noutati=Cadastru: tabelele din PAD (teren si constructii) din desen (TABELPAD), calculul analitic al suprafetei (CALCANALITIC), releveu cu tabelul incaperilor (RELEVEU) si cartus cu titlu la alegere (Releveu, Plan de situatie...).
 noutati=Proces-verbal de vecinatate in Word, cu vecinii gasiti in desen (PVVECINI).
 noutati=Planse multiple: un plan mare impartit in foi numerotate, cu schema foilor (PLANSEMULTE) si toate foile intr-un singur PDF (TIPARIREPDF).
-noutati=Imagini georeferentiate: planuri scanate puse pe coordonate din puncte, inserare cu fisier world, decupare (IMAGINEGEO). Import si export SHP in Stereo 70 (IMPORTSHP, EXPORTSHP).
 noutati=Puncte: puncte noi la capetele liniilor fara punct (PCTCAPETE) si rarirea punctelor dese (PCTRARIRE).
 noutati=Model 3D: decupare, unire, contur, sageti de panta, asezarea poliliniilor pe model si cote pe curbele digitizate (TINDECUPARE, TINUNIRE, TINCONTUR, TINPANTE, DRAPARE, CURBEDIGIT).
-noutati=Texte: text de-a lungul unei curbe (TEXTCURBA) si rotirea textelor alese (TEXTROTIRE). Include si corecturile de topologie din 1.41.0.
-sig=O_pL8m_d1WoB7u3xSFzou33Zrx01AJL_2Mxw-MDYInaQ08L5LhjG9cfzvFBXa9xffIp-s3sCdDG159UBMGIe9yvEzUIK-R_QvNmK_zrPArtfg-cSyN_trWENLjxyH4AVRhCf46LP1Oxd5NtzaBgfLJM_u6r6W5CYbOIy54Y1F1OW8jfNnyTdkcwynMzuREuHd3lvzpm1lmCqQF6Enb0xXZmvx4YKrbkMBBFjJftwd9ubFFQHZLF1zW4bpPWABk0hlvFFXYqw0wsD1Sx5BQU0__ZoR2NccITL8TGR-o-MvPBwNraAaGg5RGIYs1LwPR0G6pxpAgcj190Oq9-K93yr4A
+sig=amZRQeaXa9eJ-MS7nwgRvnVG_iu1T0uOPwXwuxcb8G2qzT4DPVL-MfFjkuzXqlDVfkHzEGLOPE2EdXVnxmtQQiy2vUJ_uTqaHVqqVoUhV4GcGtr_eTJroROJHl-iTRBY4XbXam1afWfao2fdhAI3GbEmKNJDSA_TurmqvywHbvhNIX4KGkKHUxyMtWF6o7g2no28YMQFK8YCxjPUGeGcl7JE7iegQM_pL7IWevwQz8It9Ql5PCffpvaT-bCFgjO1UlJaywr3yiwKFjhqIWfTEweuwgy2UNUIWRywOtI7Y6GC5vQNbk29OclcCASgxNcxNKNtnMC47reLCbRNDZIxoQ
