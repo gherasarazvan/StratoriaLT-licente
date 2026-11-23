@@ -1,13 +1,14 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.34.0
-data=20261122
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.34.0.exe
-sha256=116bf9fd71ae35e2586c44d182bf353d7e8911262627f045348577d01adb6ca8
-marime=2116393
-noutati=Vizualizare 3D noua (VEDERE3D / V3D si la VOLUM): culori dupa cote sau volum cu legenda, curbe de nivel, sectiune cu profil, masurare, imagine PNG; volum fata de cota minima, o cota data, cota medie sau planul optim; desenare pe model cu profil; volumul 3D in desen ca un singur obiect.
-noutati=Google Earth: export si pentru poliliniile 3D, pe terenul Google sau la cotele din desen; import KMZ/KML si ortofotoplan (ORTOFOTO).
-noutati=Interfata moderna in toata aplicatia, adaptata la tema AutoCAD deschisa sau inchisa si la monitoare high-DPI.
-noutati=Cartus cu sigla si datele firmei, legenda automata, panoul cartusului (CARTUSDATE); planse in layout.
-noutati=Profile si sectiuni din linia de comanda, cu tabele configurabile; PERPENDICULARE pentru sectiuni; suport AutoCAD 2027.
-noutati=Cotare, topologie, CGXML (export/import), curbe cote, import statie totala, drumuire, trasare; viteza mai mare la puncte, cu bara de progres.
-sig=jXGREPdJkeP8_POLKMr-tUyjbXpv_DLYNOZhsHSJWZLXBbDyL-N3RiBfF-RTHlr6KNDvsJYdL96bKK1XrriN9MXorjcy_sfMPu0QZagDU1aQos--EKMp3SE6-2-fzh88m_n1JXDcY8TGxOrTYaWzOEatuU_TJg7l_C1kXSmM-eU_2lQAQlVFCjCE___Z0hai24RoypJgLMjrPiBNgTVtv8lHFEOyesdgVbEQBuXT2sAw3gL-lAior2mrRLoGv4iScgLAclX2kQ5-VLkzD_A5TMTmDjgReoTI7Ollm7zW9O_372geBVeCmCnu_7lfCLHJql_SDwARWXywXzz3X_7ELg
+versiune=1.40.0
+data=20261123
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.40.0.exe
+sha256=579e3a946da7941157bd2e0afd50d04397f5b0d1f4f369feade98356f27bb488
+marime=2108736
+noutati=Topologie fara intrebari: dai doar distanta maxima, iar varfurile comune cu parcelele vecine se lipesc si se adauga singure; toleranta 0, fara texte pe desen.
+noutati=Diacriticele (a, s, t, i cu semne) nu mai apar cu ? in legenda, cartus si tabele.
+noutati=Export: X = Est si Y = Nord, mereu.
+noutati=Detasare: optiune de stergere a liniei despartitoare (raman doar noile loturi); detasarea in evantai corectata.
+noutati=Legenda: punct masurat cu simbol, leader si cota, doar linii; simboluri prestabilite pentru camine. Cotare cu stil de cota la alegere. Numerotarea parcelelor incepe de la 1 sau de la numarul scris.
+noutati=Profile: Transversal, Longitudinal si Longitudinal conectat la transversal (SECTPROFIL). Fix TXTAPA, STOP pe AutoCAD 2012 si simbolul de nord in chenar.
+noutati=Meniuri mai simple: scoase statia totala/GNSS, drumuirea, trasarea, compararea, lista PDF, verificarea predarii si grupurile Texte, Polilinii, Straturi, Desen si Desen topografic din Utile.
+sig=vRoycQ5cflozujcTfoSuvFWWaTA0iGj6eANgKBYh7L-NrBQQKt2e87louoNS4Evqoz6ZiJyFn93Te8-EeLITIgYH21bmRPYediOtU49V9ZYWXQi1-SyFxbpuEyCpKA41Yy1so3s2t4cDaOVtGb6v8I80Pap2TF7SDYnFZMPUhsxFdcsBRT1EJZBSp1YbB4lyYcnE_64McnEw2vX5tdN-qZ8AAzxVEEAxD4Ay4rzmQ5Kot0Jfej9ma4FTcf-cpIJpm2z62VN9geMIHVa2-UPjpdj7CkIGb6MlHxObkJbJ5jgZn1BTyIWRRC6oAJkmMHFFpJKHFfc1FRvsWDHrBHSSEA
