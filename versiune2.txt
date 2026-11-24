@@ -1,15 +1,11 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.44.0
-data=20261123
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.44.0.exe
-sha256=81ee2d813e841e1ffdabd91a0c18529cf7076421644fbf419ea7edec8e2be43b
-marime=1846956
-noutati=Ribbon nou: iconite moderne, comenzile principale mari si celelalte mici cate trei; click pe iconita mare a unui buton cu lista porneste comanda principala; panou nou Cadastru (detasare, CGXML, topologie, PAD); Ortofotoplan ca buton principal la Harti.
-noutati=Setari: randul Font din pagina Proiect afisat corect, fara "((_>" in linia de comanda dupa OK. Scoase Utile - Texte si GIS si imagini (SHP, imagini georeferentiate).
-noutati=Topologie: intai lipeste varfurile apropiate, apoi adauga varfurile pe laturile comune; cercuri doar unde a ramas ceva necorectat; varfurile dublate se sterg.
-noutati=Cadastru: tabelele din PAD (teren si constructii) din desen (TABELPAD), calculul analitic al suprafetei (CALCANALITIC), releveu cu tabelul incaperilor (RELEVEU) si cartus cu titlu la alegere (Releveu, Plan de situatie...).
-noutati=Proces-verbal de vecinatate in Word, cu vecinii gasiti in desen (PVVECINI).
-noutati=Planse multiple: un plan mare impartit in foi numerotate, cu schema foilor (PLANSEMULTE) si toate foile intr-un singur PDF (TIPARIREPDF).
-noutati=Puncte: puncte noi la capetele liniilor fara punct (PCTCAPETE) si rarirea punctelor dese (PCTRARIRE).
-noutati=Model 3D: decupare, unire, contur, sageti de panta, asezarea poliliniilor pe model si cote pe curbele digitizate (TINDECUPARE, TINUNIRE, TINCONTUR, TINPANTE, DRAPARE, CURBEDIGIT).
-sig=DnK7wbjpbKQNnnjeionIKSrqHZZtR61unkJPl1LsLVMMti9sHwa5xNbxsn-_Cc8OWaoSc9QPRoluQdElc0lFQqlt6BOetcyfJB2-ViEE5BRTYJ6qOAnY5I84OxdM2y1uR9OsSMqqgagLcn0cM5Gk2qLFGUQjwI2m3E6IqljsF5XG7GrVS6iDJ92QtCJsr0d5WrDtPUp8JMbMLmzNMHyfi8h8CSmddem0K9sbBbC4_6YrELbNLUZ5T4M1js7LJezZ0x69PFMoeqFxA8wyyqJp68CiJWvr--jQLGDVRpgvUJg00OAH1wHSOyEXeVyRC5pWu9ONwe-oMaxhiXQpHHYA1w
+versiune=1.45.0
+data=20261124
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.45.0.exe
+sha256=e72fa333e940aadc18a35d7d7f9002de5aec3b483c26d4cba33721b34c6de7ab
+marime=1723455
+noutati=Sectiuni transversale (SECTIUNI, SECTPROFIL): terenul se poate lua din polilinii 3D (linii de rupere, curbe de nivel, profile ridicate), fara model 3D; cotele sunt unde sectiunea taie poliliniile. Alegi Polilinii sau Model la inceput sau cu optiunea Teren.
+noutati=Reraportare puncte (RFP, fosta Refacere puncte si etichete): reface toate punctele deodata; cu Scara le reraportezi la alta scara.
+noutati=Panoul Puncte are trei butoane mari: Puncte (raportare, reraportare, sterge toate), Interpolare 3D (plan prin 3 puncte, cota din modelul 3D) si Cauta si selecteaza (cauta punct, dupa cod, rarire, arata punctele ascunse).
+noutati=Scoase din program: Sterge puncte (SPC), Ascunde puncte (APC), Interpolare intre 2 puncte (IPC), Renumerotare (RNP), Schimba cota (CTP), Schimba codul (CDP) si Puncte la capetele liniilor (PCE).
+sig=ESAzna9GItKZohT4vZSWkWzKoGbHgf8is672ACdyQBXzpHbiRBQCTuLBBqBxesEIv9hJc5M6Nz1W7umJP3fqpJTu8QD3emWw7MGaPkJoZky3S_R8WcwTTKtdDKpWoEzhPpdKvGtPE1eBnNTs7Hv9gxRQ7Q7wAT6Y74Z2DnHX1TzR5bgrTkzsrVb9Po6Ev90XVFsJtTyHhFk2s0g1NNt6XYp6L6tqkKaFQTCf3_vEk5X9La6UwFX2LzEQXBHYOH8XAnyVGiJlzI1eBESXnoXTx2o3hlfM2vfeNc3ngOE2Do0ZUUjZwt80EKdG_bedqwxWyDmjdARctC_BTAlYPjHaYQ
