@@ -1,9 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.43.0
+versiune=1.44.0
 data=20261123
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.43.0.exe
-sha256=0797d5eec2e3a6ae067c5cf5ec7c9da44d423d08f44d8d55986ccf58029e77c3
-marime=2336416
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.44.0.exe
+sha256=81ee2d813e841e1ffdabd91a0c18529cf7076421644fbf419ea7edec8e2be43b
+marime=1846956
+noutati=Ribbon nou: iconite moderne, comenzile principale mari si celelalte mici cate trei; click pe iconita mare a unui buton cu lista porneste comanda principala; panou nou Cadastru (detasare, CGXML, topologie, PAD); Ortofotoplan ca buton principal la Harti.
 noutati=Setari: randul Font din pagina Proiect afisat corect, fara "((_>" in linia de comanda dupa OK. Scoase Utile - Texte si GIS si imagini (SHP, imagini georeferentiate).
 noutati=Topologie: intai lipeste varfurile apropiate, apoi adauga varfurile pe laturile comune; cercuri doar unde a ramas ceva necorectat; varfurile dublate se sterg.
 noutati=Cadastru: tabelele din PAD (teren si constructii) din desen (TABELPAD), calculul analitic al suprafetei (CALCANALITIC), releveu cu tabelul incaperilor (RELEVEU) si cartus cu titlu la alegere (Releveu, Plan de situatie...).
@@ -11,4 +12,4 @@ noutati=Proces-verbal de vecinatate in Word, cu vecinii gasiti in desen (PVVECIN
 noutati=Planse multiple: un plan mare impartit in foi numerotate, cu schema foilor (PLANSEMULTE) si toate foile intr-un singur PDF (TIPARIREPDF).
 noutati=Puncte: puncte noi la capetele liniilor fara punct (PCTCAPETE) si rarirea punctelor dese (PCTRARIRE).
 noutati=Model 3D: decupare, unire, contur, sageti de panta, asezarea poliliniilor pe model si cote pe curbele digitizate (TINDECUPARE, TINUNIRE, TINCONTUR, TINPANTE, DRAPARE, CURBEDIGIT).
-sig=JIKc62fg0zauycZjzsq7QV8F4BkX7R_68j8HytkKR6n6ktkbDC-4rmlGReWrKORDEG31X8DsaxtwuZ7LP1VoAyha3E8TCNshD--x8_w8hfJkeGqsq78L6jQCASMUSNMchkYdtcFe31EeYx3AjeudRxbdNvVo2uPrAuW6kz6SHNJRa3PonbHWJsBDN2UmMXAX2F_Se6n0nNi3YUdJIejdRrcJL0w0G2M3ltXecO63sLSvmYPP93-Zrqlqv5ULPSXCnRHH0rUJGhGklinPrgew2SzEUJrV7Gaa-r-Fa4-7g2FMQzJ1Lc_dN4W5S7nL6J63_cdVVf0btC2-3tQvXfIWwA
+sig=ejEsPHHLY3ERZKoEnBl6Qxeg5u3jGISgQgVjAX4yCz-ZP0KsbwBHIAJgLjXx_1a5Uezw7fGK6EO2pAAn7HMb9Ms6GkweI5j84AEt1SWhcknDjEiHoYozZMlncTriP1WEFuhxJmXDoHq6-lsJQ-jS-sffVLjaEPNxqht-ArC3Mks33vCYCcYh_gi5x4OW7F3ze0GIiVjkezeanWQSM_J2Zhdq6qGH3tQAsOJKE-roddIy_8GIqGaaHJj-Zg4kTE2yw0nkw-4H98uRtOviGRybpkSjcE1JHZJpp1Yu1jRKbvQv8sBSaj_vXf8hVLcz6DfMv15cbcWG6m7LeS_EWrMNsQ
