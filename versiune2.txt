@@ -1,10 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.51.0
+versiune=1.52.0
 data=20261127
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.51.0.exe
-sha256=a52b57cf27afa4a2ff95c1bc76627c157a2b00b4a9cd91646e6b6c7baf8b9474
-marime=1877200
-noutati=Biblioteca de simboluri (SIMBOLURI / SMB, panoul Simboluri): 46 de simboluri topografice StratoriaLT (stalpi, posturi trafo, firide, camine, hidranti, vane, contoare, fantani, puturi, izvoare, arbori, borne, puncte GNSS, repere, semafoare, indicatoare...). Alegi simbolul din fereastra si il pui cu click, la marimea din scara proiectului.
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.52.0.exe
+sha256=c6844d67fed1d2f0a2b7ef29ccac66aa2b533a5183602e938b77ac35eb805f13
+marime=1883094
+noutati=Biblioteca de simboluri (SIMBOLURI / SMB, panoul Simboluri): 97 de simboluri topografice StratoriaLT, desenate de noi - stalpi (electrici, iluminat, telecom, radioficare, troleibuz, tramvai, CF; beton / metal / lemn), camine, hidranti, vane, fantani, puturi, foraje, arbori pe specii, borne, puncte de drumuire si triangulatie, repere, semafoare, indicatoare, sageata nordului si altele. Alegi simbolul din fereastra si il pui cu click, la marimea din scara proiectului.
 noutati=Simbolurile se definesc singure in fiecare desen ca blocuri STLT_S_* (le ai si in INSERT / paleta Blocks); desenul nu apare modificat din cauza lor. Se opreste din Setari - Coordonate si simboluri.
 noutati=Lipire la coordonate (LIPIREORIG / LPO, panoul Utile si meniul StratoriaLT): lipeste ce ai copiat cu Ctrl+C la coordonatele originale (PASTEORIG), fara sa mai mergi in tabul Home.
-sig=Gh3ZjFWsl1H-q4_ijZlq_h7wn4Pf-CRS2j7PnihKHnakT1bYFaGgDYyDshPGGwXexyPbcZKJ_Zh8mYM6U_J3Cpx2I0QIPlnQ7yPgOoqNrn7GvyGQzHA68lC2W84iLMbl1I1M1fU96EBMQDBsE1SLQPriRRN_XRxicCjcfuH8UDarU7tI0mWzFmiXqD9EPS2Q3VYB1QU-ZIXsxZ64zuKrTBgzLXIC4IJBOKYVhUxSHkKcKNqxlJtkUxIH_8jmvLc4-fuvwdvGi-PmweTQJxOaGfFGYDfWCVXBxnKV24ZUBZz7A64PjdfSg78wFcvBue50OGAVlmqoqooD4yrwC0nd3Q
+sig=dRk97Otwhc8WBEGyvllcylqOVVhS6R_n4MdzbZMNPee_YVozkzOjNUsMHCxOEyCeCNt_IxjxQ3ZqOPi0EXdacXgcH3M_RcJqEyasYlBbCH2eHoNvTCVrpx7_5fvHVvy2qMAZYFbEJ5tjAzu5L9zi4bNGT8yuCn4Oq7CxRxA6HPpDKN28i6gzhHmFcqvQ24cJvXn0modgSaEYLat5YkoWqnmg9JjF37ZEIfO_wVoSBXVtY6dAg0qZOON1f1TE8wL_0ttXb0Zmx9boIvOpgGy89KfeV0amHU__UvoxyicXwwOppt2Q9Tq-6UeMtcLAJK-ub6sA6n2WcsxvMd0zAQhG_w
