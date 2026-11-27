@@ -1,9 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.50.0
+versiune=1.51.0
 data=20261127
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.50.0.exe
-sha256=1def37ffbcf4fac0e9be1ac42e0c4bfd696f4fbdc934b0a59cc97d83da7849e6
-marime=1855246
-noutati=Afisare imagini rapida (IMAGINIVIZ / IVZ, panoul Harti): ortofotoplanul ECW / TIF se misca repede la zoom si pan. Rapid = afisare rapida si 2D Wireframe (tiparirea ramane la calitate maxima); Calitate o pune inapoi.
-noutati=Ascunde / Arata: scoate imaginile din memorie cat desenezi (ramane rama) si le aduce inapoi. Decupare: AutoCAD citeste doar zona de lucru (contur sau fereastra); Intreaga scoate decuparea.
-sig=VObxLBwi8dE7GNXQJoc4kruPkCd0axaOlVCEjxK7h2yyMaPJgnjZsmSqwdwUHlB_RMy69eU62b3TdmBJ3jKD8DtiBEQn_eeosthuOCLPL9cBxBpXxG_pTxFnSKDcOa5hdfJpzMyho_8l2HYfYE-fFriQHjKmZ5L0fPRDyhHsXZyNVjTZVhlaIkpQN1fgAzCNhKvJXqVVyOZI02CecOMPJy-IJykGW8TYHVc1i5oZTFf3Mzv8GvBrrxV1eUDM_sWbLeT6Xco0hyL-SLMKGTElPm1YxZCzzjWVEbGvbfI9ICzllCEHwvJ0Y38k6z4e8yDRdwspc-X14eZDpWU1e0BnSA
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.51.0.exe
+sha256=a52b57cf27afa4a2ff95c1bc76627c157a2b00b4a9cd91646e6b6c7baf8b9474
+marime=1877200
+noutati=Biblioteca de simboluri (SIMBOLURI / SMB, panoul Simboluri): 46 de simboluri topografice StratoriaLT (stalpi, posturi trafo, firide, camine, hidranti, vane, contoare, fantani, puturi, izvoare, arbori, borne, puncte GNSS, repere, semafoare, indicatoare...). Alegi simbolul din fereastra si il pui cu click, la marimea din scara proiectului.
+noutati=Simbolurile se definesc singure in fiecare desen ca blocuri STLT_S_* (le ai si in INSERT / paleta Blocks); desenul nu apare modificat din cauza lor. Se opreste din Setari - Coordonate si simboluri.
+noutati=Lipire la coordonate (LIPIREORIG / LPO, panoul Utile si meniul StratoriaLT): lipeste ce ai copiat cu Ctrl+C la coordonatele originale (PASTEORIG), fara sa mai mergi in tabul Home.
+sig=Gh3ZjFWsl1H-q4_ijZlq_h7wn4Pf-CRS2j7PnihKHnakT1bYFaGgDYyDshPGGwXexyPbcZKJ_Zh8mYM6U_J3Cpx2I0QIPlnQ7yPgOoqNrn7GvyGQzHA68lC2W84iLMbl1I1M1fU96EBMQDBsE1SLQPriRRN_XRxicCjcfuH8UDarU7tI0mWzFmiXqD9EPS2Q3VYB1QU-ZIXsxZ64zuKrTBgzLXIC4IJBOKYVhUxSHkKcKNqxlJtkUxIH_8jmvLc4-fuvwdvGi-PmweTQJxOaGfFGYDfWCVXBxnKV24ZUBZz7A64PjdfSg78wFcvBue50OGAVlmqoqooD4yrwC0nd3Q
