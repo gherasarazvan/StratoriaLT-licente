@@ -1,12 +1,9 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.48.0
+versiune=1.49.0
 data=20261127
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.48.0.exe
-sha256=0f7b8aa5d87ad278b70d86f6960c564a3ab953671a99d097c100613ae332f45d
-marime=1753935
-noutati=Simbolul punctului la raportare (PUNCTE / RPC): alegi modelul punctului dintr-o lista si marimea lui; dedesubt vezi cum arata punctul cu etichetele, plus simbolul marit.
-noutati=Model nou de punct: Gogoasa (cerc gros), desenat din program, se vede gros si la plotare.
-noutati=Panoul Puncte: Refacere fisier de coordonate si Tabel de coordonate (inventar) sunt in lista butonului Puncte; Punct nou din coordonate nu mai apare in ribbon.
-noutati=Fara "Always load" la pornirea AutoCAD: folderul StratoriaLT e de incredere cu tot cu subfolderele.
-noutati=Dupa ACTUALIZARE, AutoCAD porneste singur, exact cum era pornit, fara mesaj de confirmat.
-sig=UxLIOJ2MNwlOsu-6BTYJXIS4aoFt8oyK_MbCbRIVZnse_UDr_dELdHfE4rkhvua4ZP52u0YUK2QAdYKw0qsgfS_AtUmYXvobgyUCI21P77exMrL9ohiBHnRLGAXh3PYvSEpyFWLmi7ij-5IR8PJIEoFyjsk7fRsG3Q-iQXQ5I0cVIz4sU2wHkvIYcRCHGjCIPEH1dD9NEvYwoQvu345oPgxUgHeK3s_9b_RwKq2ELm39lq5Jg82IpJAObEfBafyzjcWelC8azrWh7eCtPZN86Fn9AfugUjE-kMI2m6MZ66hHQ4nfCNNLmPUjsHgl6j2E6xm7sC4Di6ayM-WmlJlsqw
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.49.0.exe
+sha256=963151fa3943170e5c43e131c61926a259052ec6ea45cd7e0bb33e349f20eb2a
+marime=1842699
+noutati=Imagine georeferentiata (IMAGINEGEO / IMG): daca desenul e salvat, imaginea aleasa din alt loc (ortofotoplan, plan scanat, ECW, TIF, JPG...) se copiaza in folderul Orto de langa desen, cu fisierele de georeferentiere (.tfw, .jgw, .eww, .prj, .aux.xml...), iar desenul se leaga de copie.
+noutati=La imaginile mai mari de 200 MB te intreaba intai daca le copiaza (Da / Nu / Toate / Niciuna); imaginile deja in folderul desenului nu se copiaza. Copierea se opreste din Setari - Ortofotoplan.
+sig=GF4I6N5AL7C4e-VsLKsVIgTCXt-xIp5VcMxlavuFnv4XIwGFpDUVmMq8GS23kXLagBTEc4SRTkiLq4OPxN6YlAnBZTY0RhQrHvOxL5Y_57I7qxGuPGBbmq-KbfwEU7xS0CBExUUmyKsCKkiCLbV-C0JmtjnXVhnPGmmdqSof9OtxV67alyV4HBU5jgWdzP10e4RoDxLfL7tHpPJTfmCYmXw_0VeEC48_36_S4oDaHU1YK49FaUQ7u27SbZUZRlYupXd4j8ZcllxEecw4jzW-oXgS3Ni6t9sSrLILMSC8uUGUrl9G2W3lyL4ppNNHG5SX8eSnOdOr7_Nae9KH6B-YIA
