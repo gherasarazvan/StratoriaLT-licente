@@ -1,9 +1,9 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.49.0
+versiune=1.50.0
 data=20261127
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.49.0.exe
-sha256=963151fa3943170e5c43e131c61926a259052ec6ea45cd7e0bb33e349f20eb2a
-marime=1842699
-noutati=Imagine georeferentiata (IMAGINEGEO / IMG): daca desenul e salvat, imaginea aleasa din alt loc (ortofotoplan, plan scanat, ECW, TIF, JPG...) se copiaza in folderul Orto de langa desen, cu fisierele de georeferentiere (.tfw, .jgw, .eww, .prj, .aux.xml...), iar desenul se leaga de copie.
-noutati=La imaginile mai mari de 200 MB te intreaba intai daca le copiaza (Da / Nu / Toate / Niciuna); imaginile deja in folderul desenului nu se copiaza. Copierea se opreste din Setari - Ortofotoplan.
-sig=XGl267qGBfxd2l_GcCzm0gTxFBdjXqNT0SPVfhK3yY3--glcyhcS2Fdc36cLgP4SGwIkdJCfyvUne1-4XZRD_R6WW2C-UFbsoZOIQqMRN38fX3VxRUflGnENMzBNHBEE22KsqUADHu2wqzO-4PgDW4rWIFh1c9Mbg7ZJHM6doGmeUuOFCRgQ-b6BrqysENAZjhTUtosRdPMsSPiXrKQdbnRXTrafGUtIaandR7vxJ_8lrnvmkhrs1j1Cx9LfWNTMeLHbDDEa3C22w5SVGuLUzKoBfOHzw0XFPd5endytRNLv1QbnEUNJ7xZDZQUm3HjdC1wwlEsg2wOB_zIeFB1F0A
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.50.0.exe
+sha256=1def37ffbcf4fac0e9be1ac42e0c4bfd696f4fbdc934b0a59cc97d83da7849e6
+marime=1855246
+noutati=Afisare imagini rapida (IMAGINIVIZ / IVZ, panoul Harti): ortofotoplanul ECW / TIF se misca repede la zoom si pan. Rapid = afisare rapida si 2D Wireframe (tiparirea ramane la calitate maxima); Calitate o pune inapoi.
+noutati=Ascunde / Arata: scoate imaginile din memorie cat desenezi (ramane rama) si le aduce inapoi. Decupare: AutoCAD citeste doar zona de lucru (contur sau fereastra); Intreaga scoate decuparea.
+sig=iugMIXH4ssnOUWIsgT5xKtSIExI8MM6J8Ul00aC9CjGSdpbTWOo7JIa5IZ23AeSo7Hr2xmJ0hDWO5Em-ncPFw-D6gk6fEo4FCFG7Bg8XN_gRp6XLqC0fe6DcKkYQfe_ArVnxLdvMZRc-7gnhNnIjwcNWIw8UzY68-tlzXJxT3Wl4eH2hADXr0NUh0xuWMnxFhxH1X9wjKD8MmughjMYBn5LegH-FU6YxbEaBdcyaasRxkgZJ1zjIPAW4f2ZuZuPsL_nFj19zYWynSlxzSBjlSrdIZ5IF25O7YG8xhduYz5QHxBNeR9mCu37JxZMpRoVQUb_ChlGDwJ1alenURg992g
