@@ -1,9 +1,10 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.46.0
+versiune=1.47.0
 data=20261127
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.46.0.exe
-sha256=86ff5e6da614acfc313fd39036167958412f943e2a786a39db855d70cfeb3992
-marime=1745209
-noutati=Imagine georeferentiata (IMAGINEGEO / IMG, ca MAPIINSERT din Map 3D), in panoul Harti: insereaza una sau mai multe imagini (TIF, JPG, PNG, ECW, JP2) direct la coordonatele lor, in orice AutoCAD, fara Map. Georeferentierea se ia din GeoTIFF, din world file (.tfw, .jgw, .pgw, .wld) sau din .aux.xml; merg si imaginile rotite. In AutoCAD fara Map se poate scrie si MAPIINSERT.
-noutati=Imaginile merg pe stratul IMAGINI, sub desen. Cele fara georeferentiere se pot aseza de mana (coltul stanga-jos si marimea pixelului); daca imaginea e in alt sistem decat Stereo 70, comanda te avertizeaza.
-sig=p7kkM48hfyErPYpBRpMdVfllcd5KQG2o1g6Sms_cRAiecIZzf6FZ8VA27fC0epXOsYWtcM4Nz171dHpH1Q-M6TqwXUJ1wGzVjcZqFbF6byArtx2yjChiZ2Jo8da7KyTkDlbONoabGe4GnHnjq3HJ6jiMve9krkStdCl7bzDPydG6b6NuILcFxVTmcEZau9tffaqkaI7u57lNQ74k6AHk-5MK3PGo4ejU5C7AuNg8kWNNTld05naeufa2N-mLxJ7zeJItd81uNWUpplz673CIiZAlm338-mi1U6GYBU2H4GkT2UIkt2gh0DL0WV7Hhg0CzLOGMriCcANiuE6H0Bz1jg
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.47.0.exe
+sha256=bc9f212fd19497b18e94c2e07df39801a58beca26bee92fe0ea6fe79025b5f95
+marime=1746524
+noutati=IMAGINEGEO / IMG cu ECW: coordonatele se citesc direct din fisierul ECW (nu mai trebuie .eww langa el), la fel si din JPEG 2000 cu GeoJP2. Foile se aseaza exact ca la MAPIINSERT din Map 3D.
+noutati=Ortofotoplanul (ORTOFOTO / ORT) se salveaza in folderul Orto de langa desen.
+noutati=Fisierele ortofoto nefolosite se sterg singure: daca stergi din desen un ortofotoplan descarcat, la salvarea desenului ii pleaca si fisierul (JPG + .jgw) in Cosul de reciclare. Pana la salvare merge UNDO. Se curata si imaginile vechi ramase langa desen. Se opreste din Setari - Ortofotoplan.
+sig=QqxG3ZDhJrcyu4cKpEjAi2KvrjZ3GAP-z5fzi8PSfjk1oBGv3TxeomIziYmBYw1bxULFLSKYM8ZsMF1f1fkdNv-m12p3odRfY3ISUH1pRtOxWMtmhJgn_lcXfVegtPAWcGIgEMj56lT6CPhRAz-rFSdzZT_9dkmulis3NZdvZftt5AsbaIeQdu88E8zTJFz6kUQ6DLGLTpBJK7-a5WUZNHOjRdkEzILNCwL2O2OTySqlBKo8am9P8Ms2Oq8EBCHlG4FkC4PLzqo_rD-xYNXijo12nVbQ9z2OU-9rhfDNlNXD8u1DarUwjSUbjnmBBVUMiRummqKpl1iX2GOEJMKyNg
