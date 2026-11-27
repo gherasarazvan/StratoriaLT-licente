@@ -1,11 +1,9 @@
 STRATORIALT-VERSIUNE-1
-versiune=1.45.0
-data=20261124
-url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.45.0.exe
-sha256=e72fa333e940aadc18a35d7d7f9002de5aec3b483c26d4cba33721b34c6de7ab
-marime=1723455
-noutati=Sectiuni transversale (SECTIUNI, SECTPROFIL): terenul se poate lua din polilinii 3D (linii de rupere, curbe de nivel, profile ridicate), fara model 3D; cotele sunt unde sectiunea taie poliliniile. Alegi Polilinii sau Model la inceput sau cu optiunea Teren.
-noutati=Reraportare puncte (RFP, fosta Refacere puncte si etichete): reface toate punctele deodata; cu Scara le reraportezi la alta scara.
-noutati=Panoul Puncte are trei butoane mari: Puncte (raportare, reraportare, sterge toate), Interpolare 3D (plan prin 3 puncte, cota din modelul 3D) si Cauta si selecteaza (cauta punct, dupa cod, rarire, arata punctele ascunse).
-noutati=Scoase din program: Sterge puncte (SPC), Ascunde puncte (APC), Interpolare intre 2 puncte (IPC), Renumerotare (RNP), Schimba cota (CTP), Schimba codul (CDP) si Puncte la capetele liniilor (PCE).
-sig=ESAzna9GItKZohT4vZSWkWzKoGbHgf8is672ACdyQBXzpHbiRBQCTuLBBqBxesEIv9hJc5M6Nz1W7umJP3fqpJTu8QD3emWw7MGaPkJoZky3S_R8WcwTTKtdDKpWoEzhPpdKvGtPE1eBnNTs7Hv9gxRQ7Q7wAT6Y74Z2DnHX1TzR5bgrTkzsrVb9Po6Ev90XVFsJtTyHhFk2s0g1NNt6XYp6L6tqkKaFQTCf3_vEk5X9La6UwFX2LzEQXBHYOH8XAnyVGiJlzI1eBESXnoXTx2o3hlfM2vfeNc3ngOE2Do0ZUUjZwt80EKdG_bedqwxWyDmjdARctC_BTAlYPjHaYQ
+versiune=1.46.0
+data=20261127
+url=https://raw.githubusercontent.com/gherasarazvan/StratoriaLT-licente/main/StratoriaLT-Setup-1.46.0.exe
+sha256=86ff5e6da614acfc313fd39036167958412f943e2a786a39db855d70cfeb3992
+marime=1745209
+noutati=Imagine georeferentiata (IMAGINEGEO / IMG, ca MAPIINSERT din Map 3D), in panoul Harti: insereaza una sau mai multe imagini (TIF, JPG, PNG, ECW, JP2) direct la coordonatele lor, in orice AutoCAD, fara Map. Georeferentierea se ia din GeoTIFF, din world file (.tfw, .jgw, .pgw, .wld) sau din .aux.xml; merg si imaginile rotite. In AutoCAD fara Map se poate scrie si MAPIINSERT.
+noutati=Imaginile merg pe stratul IMAGINI, sub desen. Cele fara georeferentiere se pot aseza de mana (coltul stanga-jos si marimea pixelului); daca imaginea e in alt sistem decat Stereo 70, comanda te avertizeaza.
+sig=p7kkM48hfyErPYpBRpMdVfllcd5KQG2o1g6Sms_cRAiecIZzf6FZ8VA27fC0epXOsYWtcM4Nz171dHpH1Q-M6TqwXUJ1wGzVjcZqFbF6byArtx2yjChiZ2Jo8da7KyTkDlbONoabGe4GnHnjq3HJ6jiMve9krkStdCl7bzDPydG6b6NuILcFxVTmcEZau9tffaqkaI7u57lNQ74k6AHk-5MK3PGo4ejU5C7AuNg8kWNNTld05naeufa2N-mLxJ7zeJItd81uNWUpplz673CIiZAlm338-mi1U6GYBU2H4GkT2UIkt2gh0DL0WV7Hhg0CzLOGMriCcANiuE6H0Bz1jg
